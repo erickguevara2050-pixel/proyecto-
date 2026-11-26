@@ -1,0 +1,10 @@
+archivo,extension,tipo
+README.md,md,Documentacion
+main.py,py,Codigo Python
+part2.py,py,Codigo Python
+readme.,sin_extension,Documentacion
+readme.md,md,Documentacion
+readme.me,me,Documentacion
+readmetime.md,md,Documentacion
+timecode.py,py,Codigo Python
+twotime.py,py,Codigo Python
